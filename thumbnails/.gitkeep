@@ -1,0 +1,17 @@
+# Thumbnails Directory
+
+This folder contains optimized thumbnail versions of images for faster loading.
+
+## Recommended Dimensions:
+- Small: 150x100px
+- Medium: 300x200px
+- Large: 600x400px
+
+## Naming Convention:
+- Use same name as main image with size suffix
+- Example: image-name-small.jpg, image-name-large.jpg
+
+## Optimization:
+- Use WebP format when possible
+- Compress for appropriate file size
+- Maintain aspect ratio

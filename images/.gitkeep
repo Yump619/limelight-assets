@@ -1,0 +1,17 @@
+# Images Directory
+
+This folder contains all image assets for the CDN.
+
+## Organization:
+- Use descriptive filenames 
+- Group similar images in subdirectories
+- Optimize images before uploading
+
+## Supported Formats:
+- JPEG/JPG
+- PNG
+- WebP
+- SVG
+- GIF
+
+Upload images here for easy CDN access via GitHub Pages or raw URLs.

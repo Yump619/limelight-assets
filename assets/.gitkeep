@@ -1,0 +1,15 @@
+# Assets Directory
+
+This folder contains general assets and resources for the CDN.
+
+## Use Cases:
+- IIcons and logos
+- Stylesheets (CSS)
+- Documents (PDF, TXT)
+- Font files (TTF, WOFF)
+- Other misc files
+
+## Organization:
+- Group similar assets in subfolders
+- Use consistent naming conventions
+- Keep file sizes reasonable for fast loading
